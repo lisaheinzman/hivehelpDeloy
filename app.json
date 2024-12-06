@@ -2,6 +2,7 @@
   "expo": {
     "name": "hivehelp",
     "slug": "hivehelp",
+    "platforms": ["web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,12 +12,8 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assets": [
-      "./assets/font"
-    ],
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assets": ["./assets/font"],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "infoPlist": {
@@ -41,8 +38,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": [
-      "expo-font"
-    ]
+    "plugins": ["expo-font"]
   }
 }

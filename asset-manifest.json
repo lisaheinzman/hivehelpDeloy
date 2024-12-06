@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/hivehelpDeloy/static/js/main.f5ab80fe.js",
+    "main.js": "/hivehelpDeloy/static/js/main.d44e43c4.js",
     "static/js/732.0bc283ab.chunk.js": "/hivehelpDeloy/static/js/732.0bc283ab.chunk.js",
     "static/js/895.16a4ad59.js": "/hivehelpDeloy/static/js/895.16a4ad59.js",
     "static/media/Ionicons.ttf": "/hivehelpDeloy/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
@@ -27,12 +27,12 @@
     "favicon-16.png": "/hivehelpDeloy/favicon-16.png",
     "manifest.json": "/hivehelpDeloy/manifest.json",
     "serve.json": "/hivehelpDeloy/serve.json",
-    "main.f5ab80fe.js.map": "/hivehelpDeloy/static/js/main.f5ab80fe.js.map",
+    "main.d44e43c4.js.map": "/hivehelpDeloy/static/js/main.d44e43c4.js.map",
     "732.0bc283ab.chunk.js.map": "/hivehelpDeloy/static/js/732.0bc283ab.chunk.js.map",
     "895.16a4ad59.js.map": "/hivehelpDeloy/static/js/895.16a4ad59.js.map"
   },
   "entrypoints": [
     "static/js/895.16a4ad59.js",
-    "static/js/main.f5ab80fe.js"
+    "static/js/main.d44e43c4.js"
   ]
 }
